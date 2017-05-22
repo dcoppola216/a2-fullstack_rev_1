@@ -1,0 +1,69 @@
+body{
+	background-image: url("../images/tilesopacity.jpg");
+}
+h1{
+	text-align: center;
+	font-family: 'Syncopate', sans-serif;
+	color: #ffff1a;
+	background-color: #000;
+}
+h2{
+	text-align: center;
+	font-family: 'Codystar', cursive;
+	color: #fff;
+	background-color: #000;
+}
+h3,h4{
+	text-align: center;
+	font-family: 'Codystar', cursive;
+	font-size: 3em;
+	color: #FF1970;
+	background-color: #000
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #400080;
+}
+
+.info {
+    float: left;
+}
+
+.info a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.info a:hover {
+    background-color: #111;
+}
+.todo{
+	background-color: #FF1970;
+	text-align: center;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding-left: 10px;
+}
+#fullmean{
+	text-align: center;
+	background-color: #FF1970;
+	border: 10px, solid,  #FF1970;
+	border-radius: 5px;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding: 10px;
+}
+#makingtable{
+	background-color: #ff1970;
+	border: 10px, solid,  #FF1970;
+	border-radius: 5px;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding: 20px;
+}
